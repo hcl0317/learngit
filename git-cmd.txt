@@ -4,4 +4,10 @@ git commmit -m "comment"
 git status
 git log
 git reflog
+git log --pretty=oneline
 
+git reset --hard HRAD^
+git reset --hard commit_id
+
+git checkout -- <file>
+git reset HEAD <file>
