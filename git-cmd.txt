@@ -13,3 +13,10 @@ git reset --hard commit_id
 
 git checkout -- <file>
 git reset HEAD <file>
+
+删除git中的文件
+git rm <file>
+git commit -m "comment"
+
+
+git remote add origin git@github.com:hcl03170/learngit.git
