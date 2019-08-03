@@ -1,3 +1,7 @@
 git init
 git add <file>
-git commmit <file>
+git commmit -m "comment"
+git status
+git log
+git reflog
+
